@@ -69,7 +69,7 @@ https://doi.org/10.5281/zenodo.17915437
 This repository is licensed under CC-BY-4.0 (LICENSE), allowing reuse with attribution. Individual artifacts inherit Zenodo's open licenses.
 
 ## Contact
-matthew@slashreboot.com, @slashreboot on X, https://slashrboot.com
+matthew@slashreboot.com, @slashreboot on X, https://slashreboot.com
 
 ## Citation
 If you use this work, please cite the individual papers via their DOIs.

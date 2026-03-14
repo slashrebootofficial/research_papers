@@ -49,7 +49,7 @@ A thermodynamic take on consciousness: qualia emerge from systems sustaining ste
 https://doi.org/10.5281/zenodo.18395027
 
 2. ***Leveraging Simplified Physics Models for Acceleration in Rendering***\
-Inspired by EUT, a heuristic prunes ~65% computations in procedural rendering via gradient rigidity thresholds. Yields ~2.9× speedups in toy models - CPU-friendly for game engines.\
+Inspired by EUT, a heuristic prunes ~66% computations in procedural rendering via gradient rigidity thresholds. Yields ~3.0× speedups in toy models - CPU-friendly for game engines.\
 https://doi.org/10.5281/zenodo.17915437
 
 ## Ethical and Usage Notes (last updated February 23, 2026)

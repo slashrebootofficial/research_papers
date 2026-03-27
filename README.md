@@ -42,6 +42,9 @@ https://doi.org/10.5281/zenodo.17528477
 The companion paper for EUT proposing the entirety of observable physics emerges from a single one-dimensional bare lattice of scalar entropy-density values whose bonds are stiffened or softened by a temperature field. No extra dimensions, no fundamental metric, no ad-hoc spacetime, no hidden variables, and no fine-tuned parameters are postulated. Every previously exploratory or retrofitted element of EUT is an unavoidable consequence of one simple principle: entropy seeks to erase its own gradients, and temperature determines the strength of its resistance.\
 https://doi.org/10.5281/zenodo.17651888
 
+3. ***The Double-Slit Experiment: Why Interference Is the Expected Default and Non-Interference Requires Explanation***\
+This companion paper discusses how the famous double-slit interference pattern might not be a deep quantum mystery requiring special postulates. Instead, interference becomes a straightforward, almost inevitable outcome when a localized entropy-density gradient packet propagates through a sparse region of the pre-geometric lattice. The residual primordial bonds - which never participate in the emergence of 3D space - naturally couple both paths sub-locally, producing the observed pattern through ordinary energy minimization.
+
 ## Other Research
 
 1. ***A Thermodynamic Framework for Phenomenal Consciousness: Gradients, Attention, and Criticality***\

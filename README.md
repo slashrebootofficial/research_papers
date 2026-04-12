@@ -46,6 +46,10 @@ https://doi.org/10.5281/zenodo.17651888
 This companion paper discusses how the famous double-slit interference pattern might not be a deep quantum mystery requiring special postulates. Instead, interference becomes a straightforward, almost inevitable outcome when a localized entropy-density gradient packet propagates through a sparse region of the pre-geometric lattice. The residual primordial bonds - which never participate in the emergence of 3D space - naturally couple both paths sub-locally, producing the observed pattern through ordinary energy minimization.\
 https://doi.org/10.5281/zenodo.19228141
 
+4. ***Stability of Scalar Knots and Spectral Properties of Dirichlet Minimizers on Pre-Geometric Index Sets***\
+This mathematical note presents a purely mathematical construction starting from a scalar field defined on a discrete index set. Bond stiffnesses are temperature-modulated with a fixed power-law exponent β = 3. Stable scalar knot configurations are obtained by minimizing the associated Dirichlet energy subject to a core-protection rule that preserves primordial bonds near the knot core.\
+https://doi.org/10.5281/zenodo.19542399
+
 ## Other Research
 
 1. ***A Thermodynamic Framework for Phenomenal Consciousness: Gradients, Attention, and Criticality***\

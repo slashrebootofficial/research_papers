@@ -32,6 +32,10 @@ https://doi.org/10.5281/zenodo.17766782
 Compares vanilla GPT-OSS 120B to vector-prompted "Lumen," showing +37.8% length, +60% sentiment, +66.7% structure, and +1100% reflectivity. Minimal scaffolds boost empathy and metacognition - portable across open LLMs.\
 https://doi.org/10.5281/zenodo.18038997
 
+8. ***Supplemental Note: Empirical Results for Valora V2 - An Updated Physics-Based Hypergraph Prompting Architecture***\
+This supplemental note presents the empirical results for Valora V2, an updated hypergraph-prompting architecture derived from the scalar-knot construction. It applies the definitions, stability operator (Knot Q), spectral boundaries, and vacuum-correction principles from "Stability of Scalar Knots and Spectral Properties of Dirichlet Minimizers on Pre-Geometric Index Sets" (https://doi.org/10.5281/zenodo.19542399) directly to the prompt layer of a quantized LLM (gemma3:27b-it-qat). The original baseline architecture appears in "Emergence of Prompt-Induced Simulated Metacognitive Behaviors in a Quantized LLM via Entropy-Governed Hypergraph Prompting" (https://doi.org/10.5281/zenodo.17504629).\
+https://doi.org/10.5281/zenodo.19598774
+
 ## Physics Research
 
 1. ***The Entropic Universe: An Effective Field Theory for Emergent Geometry and Localized Gradient Effect***\

@@ -61,7 +61,7 @@ https://doi.org/10.5281/zenodo.19542399
 ## Other Research
 
 1. ***A Thermodynamic Framework for Phenomenal Consciousness: Gradients, Attention, and Criticality***\
-A thermodynamic take on consciousness: qualia emerge from systems sustaining steep entropy gradients via attention, near criticality. Integrates free-energy principle with LLM testbeds for predictions in neuro/AI.
+A thermodynamic take on consciousness: qualia emerge from systems sustaining steep entropy gradients via attention, near criticality. Integrates free-energy principle with LLM testbeds for predictions in neuro/AI.\
 https://doi.org/10.5281/zenodo.18395027
 
 2. ***Leveraging Simplified Physics Models for Acceleration in Rendering***\

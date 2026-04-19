@@ -60,7 +60,7 @@ https://doi.org/10.5281/zenodo.19542399
 
 5. ***Temporal Double-Slit Diffraction from Entropic Bond Dynamics in a Pre-Geometric Lattice***\
 6. We provide a mathematically self-contained interpretation of the temporal double-slit experiment reported by Tirole et al. (Nature Physics 19, 999, 2023). In that work, two ultrafast pump pulses create time-varying reflectivity modulations in a thin ITO film, producing clear spectral oscillations whose period is inversely proportional to slit separation and whose visibility decay probes an effective rise time of 1–10 fs. \
-7. https://doi.org/10.5281/zenodo.19653597
+https://doi.org/10.5281/zenodo.19653597
 
 ## Other Research
 

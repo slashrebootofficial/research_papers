@@ -58,6 +58,10 @@ https://doi.org/10.5281/zenodo.19228141
 This mathematical note presents a purely mathematical construction starting from a scalar field defined on a discrete index set. Bond stiffnesses are temperature-modulated with a fixed power-law exponent β = 3. Stable scalar knot configurations are obtained by minimizing the associated Dirichlet energy subject to a core-protection rule that preserves primordial bonds near the knot core.\
 https://doi.org/10.5281/zenodo.19542399
 
+5. ***Temporal Double-Slit Diffraction from Entropic Bond Dynamics in a Pre-Geometric Lattice***\
+6. We provide a mathematically self-contained interpretation of the temporal double-slit experiment reported by Tirole et al. (Nature Physics 19, 999, 2023). In that work, two ultrafast pump pulses create time-varying reflectivity modulations in a thin ITO film, producing clear spectral oscillations whose period is inversely proportional to slit separation and whose visibility decay probes an effective rise time of 1–10 fs.\
+7. https://doi.org/10.5281/zenodo.19653597
+
 ## Other Research
 
 1. ***A Thermodynamic Framework for Phenomenal Consciousness: Gradients, Attention, and Criticality***\

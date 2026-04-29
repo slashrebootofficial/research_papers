@@ -62,6 +62,10 @@ https://doi.org/10.5281/zenodo.19542399
 We provide a mathematically self-contained interpretation of the temporal double-slit experiment reported by Tirole et al. (Nature Physics 19, 999, 2023). In that work, two ultrafast pump pulses create time-varying reflectivity modulations in a thin ITO film, producing clear spectral oscillations whose period is inversely proportional to slit separation and whose visibility decay probes an effective rise time of 1–10 fs. \
 https://doi.org/10.5281/zenodo.19653597
 
+6. ***Entropium - Live Scalar Knots from a Single Entropy-Density Line***\
+Entropium is a real-time, browser-based interactive demonstration of the Entropic Universe Theory (EUT). It implements the full pre-geometric ontology from EUT II, the scalar knot physics from Paper 3, and the rigidity-based pruning acceleration from Paper 4 - all running directly from the mathematics in the papers, with no hand-tuned parameters except for visual dimming.
+https://doi.org/10.5281/zenodo.19839215
+
 ## Other Research
 
 1. ***A Thermodynamic Framework for Phenomenal Consciousness: Gradients, Attention, and Criticality***\
